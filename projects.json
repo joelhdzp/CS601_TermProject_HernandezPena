@@ -1,0 +1,16 @@
+[
+  {
+    "id": "a2",
+    "name": "Drag and Drop Game",
+    "image": "assets/a2-thumbnail.png",
+    "url": "https://joelhdzp.github.io/CS601_HW2_HernandezPena/",
+    "description": "An interactive drag-and-drop game built using HTML5, CSS3, and JavaScript."
+  },
+  {
+    "id": "a6",
+    "name": "Inventory Management App [React + Vite]",
+    "image": "assets/a6-thumbnail.png",
+    "url": "https://joelhdzp.github.io/CS601_HW6_HernandezPena/",
+    "description": "A React-based inventory manager with routing and product detail views."
+  }
+]

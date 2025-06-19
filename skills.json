@@ -1,0 +1,42 @@
+[
+  {
+    "category": "Frontend",
+    "color": "#2196f3",
+    "skills": [
+      { "name": "React" },
+      { "name": "HTML5" },
+      { "name": "CSS3" },
+      { "name": "JavaScript" },
+      { "name": "TypeScript" }
+    ]
+  },
+  {
+    "category": "Backend & Automation",
+    "color": "#4caf50",
+    "skills": [
+      { "name": "Python" },
+      { "name": "Java" },
+      { "name": "UiPath" },
+      { "name": "Blue Prism" }
+    ]
+  },
+  {
+    "category": "Tools & Database",
+    "color": "#ff9800",
+    "skills": [
+      { "name": "SQL" },
+      { "name": "Git" }
+    ]
+  },
+  {
+    "category": "Soft Skills",
+    "color": "#9c27b0",
+    "skills": [
+      { "name": "Problem Solving" },
+      { "name": "Time Management" },
+      { "name": "Adaptability" },
+      { "name": "Customer Service" },
+      { "name": "Teamwork" }
+    ]
+  }
+]
