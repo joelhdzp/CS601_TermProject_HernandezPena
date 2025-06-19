@@ -35,7 +35,7 @@ The project uses:
         NavBar.tsx           # Top navigation bar to navigate throught pages
       pages/
         Biography.tsx        # Displays my photo and an about me message
-        Contact.tsx          # 
+        Contact.tsx          # Form with different inputs (textbox, input bar, geolocation, and submit button).
         Gallery.tsx          # Fetches gallery.json and displays some animated photos
         Home.tsx             # Displays a welcome message
         NoPage.tsx           # Displays 404 error
