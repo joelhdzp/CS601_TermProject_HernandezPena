@@ -1,0 +1,37 @@
+[
+    {
+        "id": "001", 
+        "name": "U.S. Department of State", 
+        "role": "Consular Associate", 
+        "impact": "Handled biometric verification and security clearance workflows.", 
+        "logo": "assets/dos-logo.png" 
+    },
+    {
+        "id": "002", 
+        "name": "The Hershey Company", 
+        "role": "Process Automation Developer", 
+        "impact": "Reduced operational costs by 40% via Blue Prism automations.", 
+        "logo": "assets/hersheys-logo.png" 
+    },
+    { 
+        "id": "003",
+        "name": "PepsiCo", 
+        "role": "RPA Developer", 
+        "impact": "Improved HR efficiency across LATAM via UiPath & VB automation.", 
+        "logo": "assets/pepsico-logo.png" 
+    },
+    { 
+        "id": "004",
+        "name": "Tec de Monterrey", 
+        "role": "Business Analyst", 
+        "impact": "Documented workflows and launched >15 RPA back-office processes.", 
+        "logo": "assets/tec-logo.png" 
+    },
+    { 
+        "id": "005",
+        "name": "Viakable", 
+        "role": "Process Engineer", 
+        "impact": "Early exposure to operational process engineering.", 
+        "logo": "assets/viakable-logo.png" 
+    }
+  ]

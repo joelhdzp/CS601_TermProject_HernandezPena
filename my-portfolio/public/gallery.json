@@ -1,0 +1,58 @@
+[
+  { 
+    "id": "m1", 
+    "group": "Music Festivals", 
+    "image": "assets/music1.jpg", 
+    "alt": "Music Festival 1" 
+  },
+  { 
+    "id": "m2", 
+    "group": "Music Festivals", 
+    "image": "assets/music2.jpg", 
+    "alt": "Music Festival 2" 
+  },
+  { 
+    "id": "m3", 
+    "group": "Music Festivals", 
+    "image": "assets/music3.jpg", 
+    "alt": "Music Festival 3" 
+  },
+  
+  { 
+    "id": "f1", 
+    "group": "Family", 
+    "image": "assets/family1.jpg", 
+    "alt": "Family 1" 
+  },
+  { 
+    "id": "f2", 
+    "group": "Family", 
+    "image": "assets/family2.jpg", 
+    "alt": "Family 2" 
+  },
+  { 
+    "id": "f3", 
+    "group": "Family", 
+    "image": "assets/family3.jpg", 
+    "alt": "Family 3" 
+  },
+  
+  { 
+    "id": "t1", 
+    "group": "Trips", 
+    "image": "assets/trip1.jpg", 
+    "alt": "Trip 1" 
+  },
+  { 
+    "id": "t2", 
+    "group": "Trips", 
+    "image": "assets/trip2.jpg", 
+    "alt": "Trip 2" 
+  },
+  { 
+    "id": "t3", 
+    "group": "Trips", 
+    "image": "assets/trip3.jpg", 
+    "alt": "Trip 3" 
+  }
+]
