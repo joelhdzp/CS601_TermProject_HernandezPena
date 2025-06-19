@@ -76,7 +76,7 @@ README.md                    # This documentation file
 
 ## 👨‍🏫 Presentation
 
-👉 [**YouTube Video**]()
+👉 [**YouTube Video**](https://youtu.be/6FvabiFVxb8)
 
 ---
 
