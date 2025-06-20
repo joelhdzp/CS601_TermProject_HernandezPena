@@ -123,6 +123,7 @@ README.md                    # This documentation file
 **NoPage.tsx**  
 ✅ 404 error page with image  
 ✅ Styled and animated fallback page
+✅ Go back Home button
 
 **NavBar.tsx**  
 ✅ Responsive hamburger menu (CSS + React state)  
@@ -185,7 +186,7 @@ git clone https://github.com/joelhdzp/CS601_HW6_HernandezPena.git
 ### 2. Install dependencies
 
 ```bash
-cd CS601_HW6_HernandezPena/inventory-app
+cd CS601_HW6_HernandezPena/my-portfolio
 npm install
 ```
 
